@@ -1,2 +1,2 @@
-# bitmaster
+# btcmaster
 want to be
